@@ -1,0 +1,8 @@
+{"type":"create","timestamp":"2026-02-16T01:45:12.281437674Z","issue_id":"lifx-dab","payload":{"description":"","priority":"1","title":"SKILL.md - Core skill definition with LIFX command reference","type":"task"}}
+{"type":"create","timestamp":"2026-02-16T01:45:12.353895163Z","issue_id":"lifx-5a2","payload":{"description":"","priority":"1","title":"lifx-api.sh - Bash wrapper for LIFX HTTP API","type":"task"}}
+{"type":"create","timestamp":"2026-02-16T01:45:12.432965794Z","issue_id":"lifx-bb8","payload":{"description":"","priority":"2","title":"scene-status.py - Scene matching/detection","type":"task"}}
+{"type":"create","timestamp":"2026-02-16T01:45:12.520571022Z","issue_id":"lifx-34a","payload":{"description":"","priority":"2","title":"Integration test with real LIFX token","type":"task"}}
+{"type":"close","timestamp":"2026-02-16T01:48:57.15967321Z","issue_id":"lifx-dab","payload":{}}
+{"type":"close","timestamp":"2026-02-16T01:48:57.268635927Z","issue_id":"lifx-5a2","payload":{}}
+{"type":"close","timestamp":"2026-02-16T01:48:57.38020504Z","issue_id":"lifx-bb8","payload":{}}
+{"type":"close","timestamp":"2026-02-16T01:48:57.500816017Z","issue_id":"lifx-34a","payload":{}}
